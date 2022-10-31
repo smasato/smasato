@@ -20,3 +20,5 @@ I'm a student at University of Tsukuba(College of Media Arts, Science and Techno
 
 - [Twitter](https://twitter.com/_smasato_)
 - [YouTube](https://www.youtube.com/channel/UCBSr30hhLv5ptTjLMdlBBDA)
+
+![](https://hit.yhype.me/github/profile?user_id=11751679)
