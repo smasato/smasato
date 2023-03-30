@@ -1,10 +1,11 @@
 # About Me
 
-I'm a student at University of Tsukuba(College of Media Arts, Science and Technology).
+I'm a Engineer at RAKSUL inc.
 
 ## Work Experience
 
-- Engineer (Intern), RAKSUL inc. July 2022 - Present.
+- Engineer (Full-time), RAKSUL inc. April 2023 - Present.
+- Engineer (Intern), RAKSUL inc. July 2022 - March 2022.
 - Assistant Staff (Part-time), [International Institute for Integrative Sleep Medicine, University of Tsukuba](https://wpi-iiis.tsukuba.ac.jp/). April 2022 - Present.
 - Assistant Staff (Part-time), [Master’s and Doctoral Program in International and Advanced Japanese Studies, University of Tsukuba](https://japan.tsukuba.ac.jp/). October 2020 - Present.
 - Engineer (Intern), RAKSUL inc. August 2021 - September 2021.
