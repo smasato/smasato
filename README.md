@@ -19,7 +19,12 @@ I'm a Engineer at RAKSUL inc.
 
 ## Accounts
 
-- [Twitter](https://twitter.com/_smasato_)
+- [X](https://x.com/_smasato_)
+- [YOUTRUST](https://youtrust.jp/users/smasato)
+- [Facebook](https://facebook.com/masato.sugiyama.50)
+- [LinkedIn](https://www.linkedin.com/in/smasato)
+- [SpeakerDeck](https://speakerdeck.com/smasato)
+- [Qiita](https://qiita.com/smasato)
 - [YouTube](https://www.youtube.com/channel/UCBSr30hhLv5ptTjLMdlBBDA)
 
 ![](https://hit.yhype.me/github/profile?user_id=11751679)
