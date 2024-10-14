@@ -1,10 +1,11 @@
 # About Me
 
-I'm a Engineer at RAKSUL inc.
+I'm a Engineer at Studist Corporation.
 
 ## Work Experience
 
-- Engineer (Full-time), RAKSUL inc. April 2023 - Present.
+- Engineer (Full-time), Studist Corporation. October 2024 - Present.
+- Engineer (Full-time), RAKSUL inc. April 2023 - September 2024.
 - Engineer (Intern), RAKSUL inc. July 2022 - March 2023.
 - Assistant Staff (Part-time), [International Institute for Integrative Sleep Medicine, University of Tsukuba](https://wpi-iiis.tsukuba.ac.jp/). April 2022 - March 2023.
 - Assistant Staff (Part-time), [Master’s and Doctoral Program in International and Advanced Japanese Studies, University of Tsukuba](https://japan.tsukuba.ac.jp/). October 2020 - February 2023.
