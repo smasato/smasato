@@ -6,7 +6,7 @@
 [![Zenn](https://img.shields.io/badge/smasato-3EA8FF.svg?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/smasato)
 [![SpeakerDeck](https://img.shields.io/badge/smasato-009287.svg?style=flat-square&logo=speakerdeck&logoColor=white)](https://speakerdeck.com/smasato)
 [![Facebook](https://img.shields.io/badge/smasato-1877F2.svg?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/masato.sugiyama.50)
-[![LinkedIn](https://img.shields.io/badge/smasato-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smasato)
+[![LinkedIn](https://img.shields.io/badge/smasato-0a66c2.svg?style=flat-square&logoColor=white&label=LinkedIn)](https://www.linkedin.com/in/smasato)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCBSr30hhLv5ptTjLMdlBBDA?style=flat-square&logo=youtube&logoColor=white&label=YouTube)](https://www.youtube.com/@smasato)
 
 I'm a Engineer at Studist Corporation.
