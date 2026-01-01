@@ -27,8 +27,6 @@ I'm a Software Engineer at Studist Corporation.
 
 - Information Security Specialist Examination, December 2016.
 
-![](https://hit.yhype.me/github/profile?user_id=11751679)
-
 ## CVE
 
 ### CVE-2020-9993 (Safari)
@@ -38,3 +36,5 @@ I found this vulnerability in a Apple Safari browser. I reported this vulnerabil
 - https://support.apple.com/en-us/HT211844
 - https://support.apple.com/en-us/HT211845
 - https://support.apple.com/en-us/HT211850
+
+![](https://hit.yhype.me/github/profile?user_id=11751679)
